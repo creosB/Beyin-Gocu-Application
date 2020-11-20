@@ -34,4 +34,4 @@ Uygulama üzerinden beyin göçü yapan insanların neden yaptıklarını öğre
 <p class="has-line-data" data-line-start="30" data-line-end="32">License<br>
 Herhangi bir yerde paylaşmak, değişiklik yapmak için öncelikle bana ulaşınız.</p>
 <hr>
-<h2 class="code-line" data-line-start=33 data-line-end=35 ><a id="MIT_33"></a>MIT</h2>
+<h2 class="code-line" data-line-start=33 data-line-end=35 ><a id="MIT_33"></a>Creative Commons Zero v1.0 Universal</h2>
